@@ -1,9 +1,9 @@
 # Assignment_Batch7_Rajkumar
 
-<b><u>Password.py script for below details</b></u>
+<b>Password.py script for below details</b>
 #####################################
 
-In DevOps, security is a crucial aspect, and ensuring strong passwords is essential. Create a Python script to check the password strength. 
+<br />In DevOps, security is a crucial aspect, and ensuring strong passwords is essential. Create a Python script to check the password strength. 
 
 ●       Implement a Python function called check_password_strength that takes a password string as input.
 
@@ -25,7 +25,7 @@ In DevOps, security is a crucial aspect, and ensuring strong passwords is essent
 
 /n<b><u>CPU_Monitor.py Script for below details</b></u>
 #######################################
-As a DevOps engineer, it is crucial to monitor the health and performance of servers. Write a Python program to monitor the health of the CPU. Few pointers to be noted:
+<br />As a DevOps engineer, it is crucial to monitor the health and performance of servers. Write a Python program to monitor the health of the CPU. Few pointers to be noted:
 
 ●       The program should continuously monitor the CPU usage of the local machine.
 
@@ -37,8 +37,8 @@ As a DevOps engineer, it is crucial to monitor the health and performance of ser
 
 backup.py script for backup of crucial data
 ############################################
-
-performing regular backups of important files is crucial:
+<br />
+Performing regular backups of important files is crucial:
 
 ●       Implement a Python script called backup.py that takes a source directory and a destination directory as command-line arguments.
 
