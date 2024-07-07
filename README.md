@@ -23,7 +23,7 @@ In DevOps, security is a crucial aspect, and ensuring strong passwords is essent
 
 ●       Provide appropriate feedback to the user based on the strength of the password. 
 
-CPU_Monitor.py Script for below details
+/n<b><u>CPU_Monitor.py Script for below details</b></u>
 #######################################
 As a DevOps engineer, it is crucial to monitor the health and performance of servers. Write a Python program to monitor the health of the CPU. Few pointers to be noted:
 
