@@ -23,7 +23,7 @@
 
 ●       Provide appropriate feedback to the user based on the strength of the password. 
 <br />
-<b><u>CPU_Monitor.py Script for below details</b>
+<br /><b>CPU_Monitor.py Script for below details</b>
 
 <br />As a DevOps engineer, it is crucial to monitor the health and performance of servers. Write a Python program to monitor the health of the CPU. Few pointers to be noted:
 
@@ -35,7 +35,7 @@
 
 ●       The program should include appropriate error handling to handle exceptions that may arise during the monitoring process.
 <br />
-<b>backup.py script for backup of crucial data</b>
+<br /><b>backup.py script for backup of crucial data</b>
 
 <br />
 Performing regular backups of important files is crucial:
