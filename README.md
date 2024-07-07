@@ -35,7 +35,7 @@
 
 ●       The program should include appropriate error handling to handle exceptions that may arise during the monitoring process.
 <br />
-<br /><b>backup.py script for backup of crucial data</b>
+<br /><b>Backup.py script for backup of crucial data</b>
 
 <br />
 Performing regular backups of important files is crucial:
