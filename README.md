@@ -1,6 +1,6 @@
 # Assignment_Batch7_Rajkumar
 
-Password.py script for below details
+<b><u>Password.py script for below details</b><.u>
 #####################################
 
 In DevOps, security is a crucial aspect, and ensuring strong passwords is essential. Create a Python script to check the password strength. 
